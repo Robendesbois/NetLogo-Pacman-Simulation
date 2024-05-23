@@ -35,9 +35,9 @@ This project is licensed under the MIT License.
 
 ## Note
 
-- The comments in the script code are written in French. If you want to understand them, you can translate them to your language using any translation tool, such as Google Translate. 
+- The comments in the script code are written in French.
 - Understanding the comments can provide a better comprehension of the functionality and implementation details of the simulation.
 
 ---
 
-This project was developed by Benzerroug Yasser as part of his university studies.
+This project was developed by Yasser Benz as part of his university studies.
