@@ -1,6 +1,6 @@
-# NetLogo-Pacman-Simulation
+# Pacman Simulation Model
 
-This project is a simulation of the Pacman game made using the NetLogo modeling language. It is a simplified reproduction of the famous arcade game where the player controls a yellow character, Pacman, who must eat dots while avoiding ghosts.
+This project is a simulation of the Pacman game made using the NetLogo modeling language. It is a simplified reproduction of the famous arcade game where the player controls a yellow character(Pacman) who must eat dots while avoiding ghosts.
 
 ## How to Run the Simulation
 
@@ -32,6 +32,11 @@ Contributions to this project are welcome. If you want to propose improvements, 
 ## License
 
 This project is licensed under the MIT License.
+
+## Note
+
+- The comments in the script code are written in French. If you want to understand them, you can translate them to your language using any translation tool, such as Google Translate. 
+- Understanding the comments can provide a better comprehension of the functionality and implementation details of the simulation.
 
 ---
 
