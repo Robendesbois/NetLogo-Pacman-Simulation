@@ -1,39 +1,38 @@
 # NetLogo-Pacman-Simulation
 
-Ce projet est une simulation du jeu Pacman réalisée en utilisant le langage de modélisation NetLogo. Il s'agit d'une reproduction simplifiée du célèbre jeu d'arcade où le joueur contrôle un personnage jaune, Pacman, qui doit manger des points tout en évitant les fantômes.
+This project is a simulation of the Pacman game made using the NetLogo modeling language. It is a simplified reproduction of the famous arcade game where the player controls a yellow character, Pacman, who must eat dots while avoiding ghosts.
 
-## Comment exécuter la simulation
+## How to Run the Simulation
 
-1. Assurez-vous d'avoir NetLogo installé sur votre système. Vous pouvez le télécharger depuis [le site officiel de NetLogo](https://ccl.northwestern.edu/netlogo/download.shtml).
-2. Téléchargez les fichiers du projet et ouvrez le fichier `IAD_project.nlogo` dans NetLogo.
-3. Dans NetLogo, cliquez sur le bouton "Setup" pour initialiser la simulation.
-4. Cliquez sur le bouton "Go" pour démarrer la simulation.
-5. Utilisez les flèches directionnelles pour déplacer Pacman et éviter les fantômes.
-6. Le jeu se termine lorsque Pacman a épuisé toutes ses vies ou a mangé tous les points.
+1. Make sure you have NetLogo installed on your system. You can download it from [the official NetLogo website](https://ccl.northwestern.edu/netlogo/download.shtml).
+2. Download the project files and open the `IAD_project.nlogo` file in NetLogo.
+3. In NetLogo, click the "Setup" button to initialize the simulation.
+4. Click the "Go" button to start the simulation.
+5. Use the arrow keys to move Pacman and avoid the ghosts.
+6. The game ends when Pacman runs out of lives or has eaten all the dots.
 
-## Fonctionnalités principales
+## Main Features
 
-- Un agent Pacman contrôlable par le joueur.
-- Des fantômes qui poursuivent Pacman.
-- Des points dispersés sur la grille que Pacman doit manger.
-- Un score qui augmente à chaque point mangé.
-- Un affichage du nombre de vies restantes.
-- Un message de fin de jeu lorsque Pacman perd toutes ses vies.
+- A player-controllable Pacman agent.
+- Ghosts that chase Pacman.
+- Dots scattered on the grid that Pacman must eat.
+- A score that increases with each dot eaten.
+- A display of the remaining lives.
+- A game over message when Pacman loses all his lives.
 
-## Paramètres réglables
+## Adjustable Parameters
 
-- Le nombre de fantômes présents sur la grille.
-- Le nombre initiale des points sur la grille.
+- The number of ghosts on the grid.
+- The initial number of dots on the grid.
 
 ## Contribution
 
-Les contributions à ce projet sont les bienvenues. Si vous souhaitez proposer des améliorations, des correctifs ou de nouvelles fonctionnalités, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
+Contributions to this project are welcome. If you want to propose improvements, fixes, or new features, feel free to open an issue or submit a pull request.
 
-## Licence
+## License
 
-Ce projet est sous licence MIT.
+This project is licensed under the MIT License.
 
 ---
 
-Ce projet a été développé par Benzerroug Yasser dans le cadre de ses études universitaires.
-
+This project was developed by Benzerroug Yasser as part of his university studies.
