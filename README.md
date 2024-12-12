@@ -40,4 +40,4 @@ This project is licensed under the MIT License.
 
 ---
 
-This project was developed by Yasser Benz as part of his university studies.
+This project was developed by Zero_Byte as part of his university studies.
